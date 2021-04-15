@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning  Typescript
-- 👯 I’m looking to collaborate on  open source projects 
+- 👯 I’m looking to collaborate on  open source projects
+- 🔭 
 
 
 
